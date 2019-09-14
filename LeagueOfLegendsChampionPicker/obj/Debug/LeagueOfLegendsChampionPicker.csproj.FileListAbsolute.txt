@@ -1,0 +1,15 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\bin\Debug\LeagueOfLegendsChampionPicker.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\bin\Debug\LeagueOfLegendsChampionPicker.exe.manifest
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\bin\Debug\LeagueOfLegendsChampionPicker.application
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\bin\Debug\LeagueOfLegendsChampionPicker.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\bin\Debug\LeagueOfLegendsChampionPicker.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.MainForm.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.exe.manifest
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.application
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.csprojAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2017\Projects\LeagueOfLegendsChampionPicker\LeagueOfLegendsChampionPicker\obj\Debug\LeagueOfLegendsChampionPicker.csproj.CoreCompileInputs.cache
